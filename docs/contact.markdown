@@ -4,6 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-Email: [theadraindev@gmail.com](mailto:theadraindev@gmail.com)
+I no longer use Twitter, or LinkedIn. Instead I can be reached via email.
 
-Twitter: [@adraindev](https://twitter.com/adraindev)
+Email: [theadraindev@gmail.com](mailto:theadraindev@gmail.com)
